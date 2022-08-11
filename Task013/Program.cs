@@ -5,6 +5,6 @@ Console.WriteLine(num);
 int num1 = num / 100;
 int result = num1 % 10;
 if (result > 0)
-    Console.WriteLine($"Третье число {result}");
+    Console.WriteLine($"Третья цифра {result}");
 else
     Console.WriteLine("Третьей цифры нет");
